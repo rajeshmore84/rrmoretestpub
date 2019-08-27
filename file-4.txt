@@ -1,3 +1,5 @@
 Test file 4
 
 Testing going on
+SmartSCM
+Welcome to SmartSCM
